@@ -1,7 +1,7 @@
 # Express Timeout
 
 [![npm version](https://badge.fury.io/js/express-timeout.svg)](https://badge.fury.io/js/express-timeout)
-[![GitHub license](https://img.shields.io/github/license/your-username/express-timeout.svg)](https://github.com/your-username/express-timeout/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/TrishCX/express-timeout.svg)](https://github.com/TrishCX/Express-Timeout/blob/main/LICENSE)
 
 `express-timeout` is a middleware for [Express.js](https://expressjs.com/) that adds timeout functionality to your routes. With this middleware, you can easily set a timeout for specific routes, ensuring that requests that take too long are automatically terminated.
 
