@@ -1,14 +1,19 @@
 {
-  "name": "express-timeout",
+  "name": "@imax.i7/express-timeout",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A express middleware for handling spam requests.",
+  "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/TrishCX/Express-Timeout"
+  },
   "scripts": {
     "dev": "nodemon dist/index.js",
     "watch": "tsc --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express"
+  ],
+  "author": "TrishCX",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.21",
